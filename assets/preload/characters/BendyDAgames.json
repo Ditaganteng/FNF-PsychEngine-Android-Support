@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-45
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down Normal instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				230
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Down Oblivion instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle Normal instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				231
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Left Oblivion instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-28
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				266
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Oblivion Bendy instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right Normal instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				250
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Right Oblivion instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				-25
+			],
+			"anim": "transformation",
+			"fps": 24,
+			"name": "Transformation instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up Normal instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-36
+			],
+			"anim": "you ve got this",
+			"fps": 24,
+			"name": "You've got this instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				220
+			],
+			"anim": "ugh",
+			"fps": 24,
+			"name": "ugh lowblow instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				340
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Up Oblivion instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BendyDAgames",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}
